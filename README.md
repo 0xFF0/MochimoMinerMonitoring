@@ -17,5 +17,6 @@ Tested on Ubuntu 16.04 and Nvidia GPU.
 - Copy MochimoMonitoring.py in the ./bin directory
 - Start the web server
 
-
 		$ python3 MochimoMonitoring.py -d d
+
+- Navigate to 127.0.0.1:8050
