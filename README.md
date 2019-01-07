@@ -13,7 +13,7 @@ Tested on Ubuntu 16.04 and Nvidia GPU.
 
 ### Usage
 
-- [Setup](https://docs.google.com/document/d/1nxWO-O5fZ_xdJwqpZAkWtw1Zby6ENdQsoRQn8wY2EoU) and start mining
+- [Setup](http://www.mochiwiki.com/w/index.php/Linux_Full_Node) and start mining
 - Copy MochimoMonitoring.py in the ./bin directory
 - Start the web server
 
